@@ -110,8 +110,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:007872_0000_0F6AAB3537929BB8"/>
-            <pb facs="tcp:007872_0001_0F6AAB37A7EF6768"/>
+            <pb facs="unknown:007872_0000_0F6AAB3537929BB8"/>
+            <pb facs="unknown:007872_0001_0F6AAB37A7EF6768"/>
             <p>THE CHOICE: A POEM, After the Manner of <gap reason="illegible: obscured" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> 
@@ -124,7 +124,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:007872_0002_0F6AAB3845378688"/>
+            <pb facs="unknown:007872_0002_0F6AAB3845378688"/>
             <head>THE CHOICE, A POEM.</head>
             <lg>
                <l>IF youthful Fancy might it's Choice pursue,</l>
@@ -138,7 +138,7 @@
                <l>Within myself contented and secure,</l>
                <l n="10">Above what mean Ambition can endure:</l>
                <l>
-                  <pb n="4" facs="tcp:007872_0003_0F6AAB390FB9BDD8"/>
+                  <pb n="4" facs="unknown:007872_0003_0F6AAB390FB9BDD8"/>
 Nor yet so anxious to obtain a Name,</l>
                <l>To bleed for Honour in the Fields of Fame;</l>
                <l>Empty Parade, is all that Heroes know,</l>
@@ -168,7 +168,7 @@ Nor yet so anxious to obtain a Name,</l>
                <l>The Meek and Indigent my Banquet share,</l>
                <l>Who love the Master, and approve the Fare;</l>
                <l n="35">
-                  <pb n="5" facs="tcp:007872_0004_0F6AAB39D6593100"/>
+                  <pb n="5" facs="unknown:007872_0004_0F6AAB39D6593100"/>
 Thy mellow Vintage <hi>Lisbon!</hi> should abound,</l>
                <l>Pouring a mirthful Inspiration 'round;</l>
                <l>While laughing <hi>Bacchus</hi> baths within the Bowl,</l>
@@ -196,7 +196,7 @@ Thy mellow Vintage <hi>Lisbon!</hi> should abound,</l>
                <l n="55">Is there in whom, these social Virtues blend,</l>
                <l>The Muse lifps <hi>Pollio,</hi> and she calls him Friend:</l>
                <l>
-                  <pb n="6" facs="tcp:007872_0005_0F6AAB3A780AC958"/>
+                  <pb n="6" facs="unknown:007872_0005_0F6AAB3A780AC958"/>
 To him, when flush'd with Transport I'd repair,</l>
                <l>His faithful Bosom should my Solace share;</l>
                <l>To him I'd fly when Sorrows prove too great,</l>
@@ -228,7 +228,7 @@ To him, when flush'd with Transport I'd repair,</l>
                <l>
                   <hi>Ovid,</hi> the tender, amorous and refin'd;</l>
                <l>
-                  <pb n="7" facs="tcp:007872_0006_0F6AAB3B37CCD9E0"/>
+                  <pb n="7" facs="unknown:007872_0006_0F6AAB3B37CCD9E0"/>
 Keen <hi>Juvenal,</hi> whose all-correcting Page,</l>
                <l n="80">Lash'd daring Vice, and sham'd an impious Age;</l>
                <l>Expressive <hi>Lucan</hi> who politely sung</l>
@@ -255,7 +255,7 @@ Keen <hi>Juvenal,</hi> whose all-correcting Page,</l>
                <l n="100">For Angels only merit such a Song!</l>
             </lg>
             <lg>
-               <pb n="8" facs="tcp:007872_0007_0F6AAB3DDA922B78"/>
+               <pb n="8" facs="unknown:007872_0007_0F6AAB3DDA922B78"/>
                <l>HAIL Briton's Genius, <hi>Milton!</hi> deathless Name!</l>
                <l>Blest with a full Satiety of Fame:</l>
                <l>Who durst attempt Impertinence of Praise?</l>
@@ -285,7 +285,7 @@ Keen <hi>Juvenal,</hi> whose all-correcting Page,</l>
                <l>BUT to inform the Mind, and mend the Heart,</l>
                <l>Great <hi>Tillotson,</hi> and <hi>Butler,</hi> Light impart;</l>
                <l n="125">
-                  <pb n="9" facs="tcp:007872_0008_0F6AAB3FC820CF80"/>
+                  <pb n="9" facs="unknown:007872_0008_0F6AAB3FC820CF80"/>
 Sagacious <hi>Newton,</hi> with all Science blest,</l>
                <l>And <hi>Lock,</hi> who always tho't and reason'd best.</l>
             </lg>
@@ -320,7 +320,7 @@ Sagacious <hi>Newton,</hi> with all Science blest,</l>
                <l>For rural Pleasures are my chief Desire.</l>
             </lg>
             <lg>
-               <pb n="10" facs="tcp:007872_0009_0F6AAB4087DCD910"/>
+               <pb n="10" facs="unknown:007872_0009_0F6AAB4087DCD910"/>
                <l>AH doubly blest! on native Verdure laid,</l>
                <l>Whose Fields support him, and whose Arbours Shade;</l>
                <l>In his own Hermitage in Peace resides,</l>
@@ -346,7 +346,7 @@ Sagacious <hi>Newton,</hi> with all Science blest,</l>
                <l>Where gamesome Flocks, and rampant Herds might play,</l>
                <l>To the warm Sun-shine of the Vernal Day;</l>
                <l>
-                  <pb n="11" facs="tcp:007872_0010_0F6AAB415F9CBE30"/>
+                  <pb n="11" facs="unknown:007872_0010_0F6AAB415F9CBE30"/>
 Northward, a Garden on a Slope should lye,</l>
                <l n="170">Finely adjusted to the nicest Eye;</l>
                <l>In midst of This should stand a Cherry Grove,</l>
@@ -375,7 +375,7 @@ Northward, a Garden on a Slope should lye,</l>
                <l n="190">Resign my Soul, and willingly obey.</l>
             </lg>
             <lg>
-               <pb n="12" facs="tcp:007872_0011_0F6AAB4219823A48"/>
+               <pb n="12" facs="unknown:007872_0011_0F6AAB4219823A48"/>
                <l>GRANT me kind Heav'n! the Nymph still form'd to please,</l>
                <l>Impassionate as Infants when at Ease;</l>
                <l>Fair as the op'ning Rose; her Person small,</l>
@@ -402,7 +402,7 @@ Northward, a Garden on a Slope should lye,</l>
                <l>And Love still be the Business of the Day.</l>
             </lg>
             <lg>
-               <pb n="13" facs="tcp:007872_0012_0F6AAB42B71A7DB8"/>
+               <pb n="13" facs="unknown:007872_0012_0F6AAB42B71A7DB8"/>
                <l n="215">WHILE sporting Flocks in fond Rotations court,</l>
                <l>And to the Thicket Pair by Pair resort;</l>
                <l>While tuneful Birds in tender Murmurings plead,</l>
@@ -430,7 +430,7 @@ Northward, a Garden on a Slope should lye,</l>
                <l>Life without Storms a stagnant Pool appears,</l>
                <l>And grows offensive with unruffled Years;</l>
                <l>
-                  <pb n="14" facs="tcp:007872_0013_0F6AAB4377A77790"/>
+                  <pb n="14" facs="unknown:007872_0013_0F6AAB4377A77790"/>
 An active State, is Vertue's proper Sphere,</l>
                <l n="240">240 To do, and suffer is our Duty here:</l>
                <l>Foes to encounter, Vices to disdain,</l>
@@ -462,7 +462,7 @@ An active State, is Vertue's proper Sphere,</l>
                <l>May Prudence govern, Piety controul,</l>
                <l>All Slander, Rage and Bitterness of Soul;</l>
                <l>
-                  <pb n="15" facs="tcp:007872_0014_0F6AAB44CE6689E8"/>
+                  <pb n="15" facs="unknown:007872_0014_0F6AAB44CE6689E8"/>
 Peace, Plenty, Health and Innocence be made,</l>
                <l>The blissful Tenants of my tranquil Shade.</l>
             </lg>
